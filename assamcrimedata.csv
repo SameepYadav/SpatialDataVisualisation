@@ -1,0 +1,312 @@
+dates,crimetype,lat,lng,crimedistricts,victim_age,victim_gender
+2017-08-01,Other theft,26.80814375,93.53008902,Sonitpur,15,M
+2017-07-14,Other theft,26.54046325,91.57628138,Kamrup,5,M
+2017-09-18,Drugs,26.15518144,91.34134824,Kamrup,,
+2017-07-27,Shoplifting,26.64881207,93.41121693,Golaghat,,
+2017-08-22,Shoplifting,26.6387714,91.99930327,Udalguri,,
+2017-07-30,Anti-social behaviour,26.45187866,90.462992,Chirang,,
+2017-04-01,Other theft,26.08272834,93.92931366,Golaghat,21,F
+2017-03-19,Bicycle theft,26.9283616,93.95624329,Lakhimpur,7,F
+2017-09-17,Other theft,26.12910821,90.6181656,Goalpara,19,F
+2017-05-03,Other theft,26.22366828,91.4917666,Kamrup,47,M
+2017-02-06,Theft from the person,26.24530413,93.79399121,Karbi Anglong,31,M
+2017-05-05,Other theft,26.01809381,90.36433431,Goalpara,67,F
+2017-11-27,Theft from the person,26.59974819,93.37181684,Golaghat,48,F
+2017-02-06,Burglary,26.58540361,90.30328104,Kokrajhar,63,F
+2017-03-17,Drugs,26.31989604,90.82847992,Barpeta,,
+2017-06-14,Other theft,26.76296225,90.25073145,Kokrajhar,73,F
+2017-02-14,Drugs,26.00355742,90.9617013,Goalpara,,
+2017-06-16,Shoplifting,26.41936827,90.49119519,Bongaigaon,,
+2017-12-04,Shoplifting,26.02737015,90.41093734,Goalpara,,
+2017-08-29,Shoplifting,26.09216832,93.79055738,Karbi Anglong,,
+2017-11-25,Shoplifting,26.43241636,94.11504088,Golaghat,,
+2017-09-06,Anti-social behaviour,26.02492924,90.95447491,Goalpara,,
+2017-06-30,Anti-social behaviour,26.27992188,93.96137791,Golaghat,,
+2018-03-30,Possession of weapons,26.1226563415767,91.6136408624268,Kamrup,,
+2017-04-07,Anti-social behaviour,26.74877758,93.9251922,Golaghat,,
+2017-10-16,Anti-social behaviour,26.69315764,92.31185713,Udalguri,,
+2017-04-30,Anti-social behaviour,26.88575096,92.43697376,Sonitpur,,
+2017-09-08,Public order,26.10791414,93.64407624,Karbi Anglong,,
+2017-09-09,Shoplifting,26.05072384,93.87514061,Golaghat,,
+2017-12-30,Shoplifting,26.01660049,93.59326002,Karbi Anglong,,
+2017-06-07,Shoplifting,26.38859533,92.73501453,Nagaon,,
+2017-08-17,Shoplifting,26.18853734,93.40068132,Karbi Anglong,,
+2017-02-16,Other theft,26.10523813,92.89818998,Nagaon,12,M
+2017-10-02,Theft from the person,26.02168659,93.84697596,Golaghat,22,M
+2017-06-02,Violence and sexual offences,26.49399624,90.47298373,Chirang,15,M
+2017-05-09,Violence and sexual offences,26.91145215,92.35602253,Udalguri,12,M
+2017-06-26,Other theft,26.61704024,91.97560597,Udalguri,7,F
+2017-09-16,Other theft,26.73994828,93.91996578,Golaghat,56,M
+2017-11-29,Theft from the person,26.67782769,90.91548762,Baksa,41,M
+2017-03-16,Theft from the person,26.33301879,92.92438312,Nagaon,38,M
+2017-10-16,Theft from the person,26.35602149,92.79717517,Nagaon,66,M
+2017-07-21,Violence and sexual offences,26.9569895,94.94709978,Sivasagar,65,F
+2017-02-06,Criminal damage and arson,26.90946675,94.28766773,Jorhat,76,F
+2017-08-22,Violence and sexual offences,26.26889105,92.63388967,Nagaon,23,F
+2017-10-24,Other crime,26.07737122,93.80080131,Karbi Anglong,,
+2017-10-04,Possession of weapons,26.35064571,93.61747146,Karbi Anglong,,
+2017-11-03,Public order,26.20195366,93.39187959,Karbi Anglong,,
+2017-10-20,Anti-social behaviour,26.21779613,92.86551082,Karbi Anglong,,
+2017-12-17,Anti-social behaviour,26.95392346,94.00307753,Lakhimpur,,
+2017-12-01,Anti-social behaviour,26.37689749,90.23394323,Kokrajhar,,
+2017-06-19,Anti-social behaviour,26.49628213,90.05698924,Kokrajhar,,
+2017-11-29,Anti-social behaviour,26.21895005,93.55355151,Karbi Anglong,,
+2017-03-04,Anti-social behaviour,26.39924721,90.00949356,Kokrajhar,,
+2017-03-04,Bicycle theft,26.39184028,91.1279694,Barpeta,18,M
+2017-04-15,Theft from the person,26.89241938,94.16622397,Jorhat,15,F
+2017-01-16,Shoplifting,26.17771277,93.18911666,Karbi Anglong,,
+2017-11-13,Other theft,26.02012448,90.89056473,Goalpara,6,F
+2017-04-20,Shoplifting,26.68531823,92.55326409,Sonitpur,,
+2017-07-24,Shoplifting,26.27682535,91.77903635,Kamrup,,
+2017-03-29,Shoplifting,26.6776186,90.02441147,Kokrajhar,,
+2017-05-20,Vehicle crime,26.18685428,92.1114337,Marigaon,31,M
+2017-05-29,Theft from the person,26.30019299,91.92771276,Darrang,67,M
+2017-11-14,Violence and sexual offences,26.73268637,92.09579314,Udalguri,37,M
+2017-12-09,Anti-social behaviour,26.64007153,93.85335045,Golaghat,,
+2017-02-03,Theft from the person,26.13272692,92.16257267,Kamrup Metropolitan,31,M
+2017-02-26,Violence and sexual offences,26.42976902,93.38467582,Karbi Anglong,35,M
+2017-06-16,Burglary,26.65849123,92.42989337,Sonitpur,66,M
+2017-07-11,Burglary,26.68337847,92.37115683,Udalguri,28,M
+2017-12-17,Other theft,26.03313754,90.3360519,Goalpara,69,M
+2017-10-24,Theft from the person,26.23608205,91.42515828,Nalbari,49,M
+2018-03-30,Robbery,26.1157850657969,91.6146877595245,Kamrup,52,F
+2017-09-24,Other theft,26.39640113,90.85711914,Barpeta,74,F
+2017-03-22,Other theft,26.95945208,92.60876391,Sonitpur,23,F
+2017-07-10,Anti-social behaviour,26.58140726,94.02501643,Golaghat,,
+2017-08-07,Anti-social behaviour,26.55942917,91.1313246,Baksa,,
+2017-12-01,Shoplifting,26.70487049,91.82446344,Udalguri,,
+2017-12-01,Other crime,26.09359786,91.2106469,Kamrup,,
+2017-12-06,Anti-social behaviour,26.18539094,91.39420064,Nalbari,,
+2017-06-19,Drugs,26.46614886,91.56322659,Kamrup,,
+2017-10-02,Other crime,26.23104709,90.96530904,Barpeta,,
+2017-01-05,Other crime,26.05142922,91.15453479,Kamrup,,
+2017-07-27,Shoplifting,26.00502218,93.75267359,Karbi Anglong,,
+2017-09-08,Other theft,26.10282258,92.9064906,Nagaon,12,M
+2017-08-19,Other theft,26.87307276,94.41529525,Jorhat,22,M
+2017-01-08,Bicycle theft,26.38266476,94.05739144,Golaghat,19,M
+2017-04-23,Other theft,26.54167835,90.00183746,Kokrajhar,14,M
+2017-08-25,Other theft,26.77222257,93.13579644,Sonitpur,12,F
+2017-05-08,Theft from the person,26.7272202,90.30156733,Kokrajhar,7,F
+2017-02-25,Other theft,26.23893069,90.31545006,Dhubri,4,F
+2017-01-07,Other theft,26.23717255,93.75539863,Karbi Anglong,13,F
+2017-10-23,Other theft,26.75221081,91.42501631,Baksa,59,M
+2017-10-08,Other theft,26.14846769,93.46587792,Karbi Anglong,58,M
+2017-12-06,Other theft,26.2352151,93.53980555,Karbi Anglong,68,M
+2017-09-09,Other theft,26.68114125,91.47181041,Baksa,78,M
+2017-11-25,Bicycle theft,26.71141292,92.23952006,Udalguri,59,M
+2017-11-14,Burglary,26.71306611,90.87106322,Chirang,61,M
+2017-12-20,Other theft,26.30917539,90.22883205,Dhubri,46,M
+2017-05-06,Other theft,26.20543191,91.37094047,Nalbari,52,M
+2017-11-23,Criminal damage and arson,26.75463151,93.44651069,Sonitpur,57,F
+2017-10-10,Other theft,26.42525631,91.00090604,Barpeta,22,F
+2017-08-08,Violence and sexual offences,26.09058151,90.73646726,Goalpara,57,F
+2017-07-23,Burglary,26.19771115,90.1058308,Kokrajhar,55,F
+2017-10-31,Burglary,26.08423727,91.96975506,Kamrup Metropolitan,57,F
+2017-11-30,Other theft,26.7700068,91.55499197,Baksa,69,F
+2018-03-30,Robbery,26.1157850657969,91.6146877595245,Kamrup,27,F
+2017-03-09,Anti-social behaviour,26.43660245,90.92784139,Barpeta,,
+2017-09-23,Violence and sexual offences,26.95619153,93.8590046,Lakhimpur,9,M
+2017-09-02,Bicycle theft,26.75306061,93.38200644,Sonitpur,3,M
+2017-03-21,Bicycle theft,26.32448964,90.04038915,Kokrajhar,6,M
+2017-02-17,Violence and sexual offences,26.37034018,92.42822968,Marigaon,5,F
+2017-04-24,Theft from the person,26.31704154,91.55754353,Kamrup,14,F
+2017-05-18,Theft from the person,26.16176163,90.58675448,Goalpara,21,M
+2017-05-13,Anti-social behaviour,26.50644528,91.52595478,Nalbari,,
+2017-09-11,Drugs,26.52710709,90.24148193,Kokrajhar,,
+2017-09-23,Drugs,26.18126885,91.59108778,Kamrup,,
+2017-03-16,Drugs,26.93269781,92.48397321,Sonitpur,,
+2017-03-25,Possession of weapons,26.61833088,91.24087347,Barpeta,,
+2017-10-31,Public order,26.3984053,92.12383197,Darrang,,
+2017-04-22,Public order,26.68348929,90.83711946,Chirang,,
+2017-05-26,Public order,26.66443353,92.30727689,Darrang,,
+2017-11-10,Shoplifting,26.80967527,92.70992254,Sonitpur,,
+2017-08-06,Shoplifting,26.15566433,92.08905908,Kamrup Metropolitan,,
+2017-02-10,Shoplifting,26.56757733,92.66806248,Sonitpur,,
+2017-06-30,Shoplifting,26.59419943,91.34078721,Baksa,,
+2017-06-30,Bicycle theft,26.19870094,92.86011062,Nagaon,61,M
+2017-05-30,Theft from the person,26.87080931,94.60159812,Sivasagar,57,M
+2017-03-07,Theft from the person,26.27062434,93.55546798,Karbi Anglong,75,M
+2017-05-22,Violence and sexual offences,26.08682595,93.03570844,Nagaon,33,M
+2017-08-22,Bicycle theft,26.18289316,92.09798891,Marigaon,32,M
+2017-06-22,Burglary,26.39711127,93.01315171,Karbi Anglong,31,M
+2017-02-12,Burglary,26.15330033,93.29008449,Karbi Anglong,66,F
+2017-10-21,Violence and sexual offences,26.55629408,92.60453943,Sonitpur,52,F
+2017-12-20,Vehicle crime,26.20425482,90.97993415,Barpeta,15,M
+2017-10-14,Other theft,26.75669042,92.53678554,Sonitpur,28,M
+2017-11-24,Public order,26.2544027,93.76200052,Karbi Anglong,,
+2017-12-05,Drugs,26.94026703,92.58719808,Sonitpur,,
+2017-05-13,Public order,26.99798263,94.64169472,Sivasagar,,
+2017-02-19,Anti-social behaviour,26.53335922,92.37801747,Darrang,,
+2017-03-11,Anti-social behaviour,26.73696132,90.26943472,Kokrajhar,,
+2017-02-25,Drugs,26.72988984,91.67878264,Baksa,,
+2017-03-28,Anti-social behaviour,26.42512727,93.70401046,Karbi Anglong,,
+2017-08-05,Anti-social behaviour,26.42801912,92.4318088,Marigaon,,
+2017-05-10,Anti-social behaviour,26.87930506,93.65733406,Sonitpur,,
+2017-09-23,Anti-social behaviour,26.08804126,92.54754745,Karbi Anglong,,
+2017-11-24,Anti-social behaviour,26.09117731,90.77885391,Goalpara,,
+2018-03-30,Criminal damage and arson,26.1257388364168,91.620335656128,Kamrup,73,M
+2017-11-05,Other theft,26.49380553,93.50435648,Karbi Anglong,79,M
+2017-05-23,Other theft,26.30167885,93.52222484,Karbi Anglong,23,M
+2017-04-10,Other theft,26.50997216,90.76673301,Bongaigaon,63,M
+2017-08-16,Other theft,26.79231923,93.34359555,Sonitpur,25,F
+2017-08-09,Other theft,26.29511526,93.35718836,Karbi Anglong,36,F
+2017-06-07,Anti-social behaviour,26.42551557,92.91145745,Nagaon,,
+2017-03-13,Anti-social behaviour,26.64633029,91.6058561,Baksa,,
+2017-12-25,Drugs,26.41759733,91.56125071,Nalbari,,
+2017-07-20,Shoplifting,26.12203814,92.50257786,Karbi Anglong,,
+2017-11-09,Anti-social behaviour,26.02390995,90.02347326,Dhubri,,
+2017-08-02,Drugs,26.89805952,93.72002265,Sonitpur,,
+2017-03-11,Public order,26.41047571,91.59399958,Kamrup,,
+2017-09-26,Other crime,26.72987652,93.74416832,Golaghat,,
+2017-11-15,Anti-social behaviour,26.55786451,91.64083229,Baksa,,
+2017-07-23,Bicycle theft,26.03414473,91.96597103,Kamrup Metropolitan,19,M
+2017-12-28,Bicycle theft,26.31722503,93.13512288,Karbi Anglong,11,M
+2017-05-09,Criminal damage and arson,26.04405914,91.58994753,Kamrup Metropolitan,27,M
+2017-06-18,Criminal damage and arson,26.17043632,91.62276733,Kamrup,63,M
+2017-09-22,Burglary,26.7002467,93.88348012,Golaghat,53,M
+2017-05-24,Criminal damage and arson,26.73958956,91.8029712,Udalguri,38,M
+2017-07-21,Burglary,26.50805541,93.50288662,Karbi Anglong,29,M
+2017-01-06,Anti-social behaviour,26.11213485,92.24186057,Marigaon,,
+2017-09-15,Criminal damage and arson,26.69302015,93.38725058,Golaghat,47,M
+2017-12-13,Criminal damage and arson,26.58255591,92.68811237,Sonitpur,32,F
+2017-06-07,Burglary,26.87221801,93.82223995,Lakhimpur,44,F
+2017-08-24,Anti-social behaviour,26.16720635,93.03310357,Karbi Anglong,,
+2017-05-02,Anti-social behaviour,26.78940098,92.57179549,Sonitpur,,
+2017-02-24,Anti-social behaviour,26.49946287,93.11190949,Karbi Anglong,,
+2017-01-04,Drugs,26.07160582,91.88794142,Kamrup Metropolitan,,
+2017-06-22,Drugs,26.62073036,92.43085091,Sonitpur,,
+2017-08-23,Drugs,26.29508586,93.20678881,Karbi Anglong,,
+2017-11-27,Drugs,26.09767135,92.50972595,Karbi Anglong,,
+2017-06-16,Drugs,26.29261195,94.08083941,Golaghat,,
+2017-02-13,Drugs,26.4794794,91.47763614,Nalbari,,
+2017-06-05,Drugs,26.64251111,92.08430703,Udalguri,,
+2017-12-16,Other theft,26.70025488,91.49300683,Baksa,4,M
+2017-03-05,Other theft,26.94390884,94.32569002,Jorhat,13,M
+2017-04-24,Other theft,26.80409342,92.79655477,Sonitpur,4,M
+2017-03-08,Other theft,26.5936598,94.03895704,Golaghat,68,M
+2017-09-24,Public order,26.28826761,92.41957566,Marigaon,,
+2017-02-12,Shoplifting,26.09268584,92.8813112,Nagaon,,
+2017-01-01,Shoplifting,26.84186086,93.47432041,Sonitpur,,
+2017-07-22,Shoplifting,26.40221574,93.38183121,Karbi Anglong,,
+2017-11-18,Shoplifting,26.20347623,93.52382396,Karbi Anglong,,
+2017-08-02,Shoplifting,26.66414074,91.83257526,Udalguri,,
+2017-02-18,Shoplifting,26.86725324,93.7187068,Sonitpur,,
+2017-11-25,Robbery,26.6506201,94.38911762,Jorhat,47,M
+2017-11-10,Other theft,26.22349223,90.37620894,Dhubri,50,M
+2017-11-29,Other theft,26.65996779,91.79736706,Udalguri,72,F
+2017-08-12,Other theft,26.49235384,92.48284791,Nagaon,80,F
+2017-09-16,Possession of weapons,26.25641383,92.48455321,Marigaon,,
+2017-08-16,Possession of weapons,26.41180287,92.75445849,Nagaon,,
+2017-08-13,Public order,26.22133422,93.92723936,Golaghat,,
+2017-03-31,Public order,26.41206844,90.98695228,Barpeta,,
+2017-08-29,Public order,26.76909867,90.21633825,Kokrajhar,,
+2017-01-07,Public order,26.63678587,91.63103725,Baksa,,
+2017-05-11,Shoplifting,26.60793772,91.4179981,Baksa,,
+2017-09-22,Shoplifting,26.69421202,93.05817424,Sonitpur,,
+2017-01-01,Shoplifting,26.84132781,91.80737368,Udalguri,,
+2017-09-25,Shoplifting,26.68227363,92.84120867,Sonitpur,,
+2017-10-07,Theft from the person,26.35202895,91.57420137,Kamrup,7,M
+2017-05-05,Theft from the person,26.24845459,92.2750797,Marigaon,13,M
+2017-08-11,Violence and sexual offences,26.87965067,94.17549711,Jorhat,5,M
+2017-08-28,Anti-social behaviour,26.05409931,93.73154833,Karbi Anglong,,
+2017-06-09,Violence and sexual offences,26.54876358,90.07513275,Kokrajhar,17,M
+2017-03-31,Bicycle theft,26.37039185,90.65109856,Bongaigaon,21,M
+2017-10-09,Vehicle crime,26.97235284,92.90840669,Sonitpur,17,F
+2017-01-05,Vehicle crime,26.00405479,90.04348013,Dhubri,19,F
+2017-07-11,Criminal damage and arson,26.29847306,93.32638037,Karbi Anglong,57,M
+2017-01-01,Theft from the person,26.81697898,94.37621147,Jorhat,79,M
+2017-06-14,Criminal damage and arson,26.70597318,90.20916227,Kokrajhar,21,M
+2017-03-26,Violence and sexual offences,26.50284276,90.41394741,Chirang,55,M
+2017-08-30,Violence and sexual offences,26.79740468,92.18782339,Udalguri,26,F
+2017-05-05,Other theft,26.76082354,90.53955896,Chirang,23,F
+2017-09-05,Criminal damage and arson,26.17540123,91.06012432,Barpeta,25,F
+2017-02-06,Criminal damage and arson,26.76428335,90.66015222,Chirang,53,F
+2017-03-29,Criminal damage and arson,26.70902416,90.88298871,Chirang,38,F
+2017-03-12,Other crime,26.66466776,92.81251574,Sonitpur,,
+2017-05-02,Anti-social behaviour,26.26405647,93.91492868,Golaghat,,
+2017-01-24,Anti-social behaviour,26.66083566,90.49381957,Chirang,,
+2017-08-10,Anti-social behaviour,26.58110326,90.66187309,Chirang,,
+2017-07-28,Theft from the person,26.48687148,92.99760269,Nagaon,9,M
+2017-07-02,Vehicle crime,26.01525207,90.66660492,Goalpara,16,M
+2017-01-18,Other theft,26.70395942,93.97109463,Golaghat,6,M
+2017-09-30,Other theft,26.82629512,93.59345372,Sonitpur,10,M
+2017-01-02,Other theft,26.83782047,90.21697903,Kokrajhar,21,F
+2017-03-01,Violence and sexual offences,26.53174493,93.58754102,Karbi Anglong,13,F
+2017-10-05,Violence and sexual offences,26.69306701,93.87057492,Golaghat,75,M
+2017-06-27,Drugs,26.2998959,90.16307805,Dhubri,,
+2017-09-07,Vehicle crime,26.88725457,93.74248846,Sonitpur,69,M
+2017-07-25,Criminal damage and arson,26.42492906,94.01897717,Golaghat,52,M
+2017-02-19,Vehicle crime,26.80368195,92.46403781,Sonitpur,38,M
+2017-02-14,Criminal damage and arson,26.49359076,92.93077177,Nagaon,78,M
+2017-12-03,Other theft,26.2087489,90.60302536,Goalpara,46,M
+2017-12-18,Vehicle crime,26.43877968,93.82038552,Golaghat,44,F
+2017-07-25,Other theft,26.31318442,91.97724332,Darrang,50,F
+2017-11-03,Other theft,26.0496453,91.5911649,Kamrup Metropolitan,72,F
+2017-07-05,Other theft,26.636961,94.14158779,Jorhat,67,F
+2017-10-14,Other theft,26.69528993,90.13297283,Kokrajhar,38,F
+2017-10-17,Other theft,26.10804586,92.50791424,Karbi Anglong,75,F
+2017-05-15,Criminal damage and arson,26.1269182,90.0676712,Dhubri,34,F
+2017-04-04,Drugs,26.19571213,94.00643248,Golaghat,,
+2017-11-02,Public order,26.16474502,91.14080947,Barpeta,,
+2017-07-23,Shoplifting,26.02206104,92.27784178,Karbi Anglong,,
+2017-09-28,Public order,26.44240352,91.03333551,Barpeta,,
+2017-06-29,Public order,26.687482,93.28779528,Sonitpur,,
+2017-12-07,Shoplifting,26.31375539,93.48199107,Karbi Anglong,,
+2017-05-25,Violence and sexual offences,26.73676007,90.9683404,Baksa,4,M
+2017-06-17,Anti-social behaviour,26.85321084,92.55610602,Sonitpur,,
+2017-12-28,Violence and sexual offences,26.66073561,94.14969381,Jorhat,14,M
+2017-01-04,Other theft,26.20479361,93.38891054,Karbi Anglong,22,M
+2017-10-22,Other theft,26.64554719,92.93319182,Sonitpur,42,M
+2017-02-03,Violence and sexual offences,26.79648415,94.34240159,Jorhat,66,F
+2017-12-19,Violence and sexual offences,26.41064592,92.80926117,Nagaon,62,F
+2017-07-21,Violence and sexual offences,26.10903053,92.22772243,Marigaon,25,F
+2017-09-21,Drugs,26.24112811,92.00720445,Marigaon,,
+2017-05-07,Other crime,26.31477553,91.30028536,Nalbari,,
+2017-03-22,Drugs,26.34973137,92.17303651,Marigaon,,
+2017-09-12,Other crime,26.60199046,90.54681272,Chirang,,
+2017-09-24,Violence and sexual offences,26.5972958,92.61084088,Sonitpur,14,M
+2017-04-01,Anti-social behaviour,26.87806721,94.3565285,Jorhat,,
+2017-03-04,Violence and sexual offences,26.77981554,93.97626679,Golaghat,22,M
+2017-02-23,Violence and sexual offences,26.16999264,93.20233541,Karbi Anglong,19,M
+2017-10-21,Violence and sexual offences,26.2996666,92.98651062,Karbi Anglong,10,M
+2017-10-19,Violence and sexual offences,26.21035077,90.4937114,Bongaigaon,21,F
+2017-11-04,Violence and sexual offences,26.85621509,94.65353909,Sivasagar,19,F
+2017-10-29,Criminal damage and arson,26.87988049,94.49035675,Jorhat,37,M
+2017-07-11,Violence and sexual offences,26.00242858,92.30319591,Karbi Anglong,54,M
+2017-09-21,Other crime,26.56325093,91.14331556,Baksa,,
+2017-08-30,Anti-social behaviour,26.08019893,90.57963834,Goalpara,,
+2017-08-31,Criminal damage and arson,26.13613018,92.23838918,Marigaon,42,M
+2017-04-17,Criminal damage and arson,26.14415215,90.87817723,Barpeta,79,M
+2017-08-09,Criminal damage and arson,26.90192998,93.2885789,Sonitpur,47,M
+2017-02-13,Violence and sexual offences,26.54141571,91.31379213,Baksa,69,M
+2017-06-16,Violence and sexual offences,26.80018996,91.46285332,Baksa,22,M
+2017-08-05,Violence and sexual offences,26.71296017,92.0093868,Udalguri,75,M
+2017-09-18,Criminal damage and arson,26.99006156,94.35317814,Jorhat,77,F
+2017-02-18,Violence and sexual offences,26.68799735,92.63994851,Sonitpur,64,F
+2017-10-17,Criminal damage and arson,26.10083477,90.646157,Goalpara,77,F
+2017-04-26,Violence and sexual offences,26.69979518,92.07245421,Udalguri,80,F
+2017-05-01,Other theft,26.7666559,93.66870938,Golaghat,13,M
+2017-11-24,Violence and sexual offences,26.30352686,90.68337095,Bongaigaon,21,M
+2017-10-05,Drugs,26.6557111,90.03086669,Kokrajhar,,
+2017-01-18,Other crime,26.21008115,93.4416107,Karbi Anglong,,
+2017-10-05,Anti-social behaviour,26.08541963,91.09506307,Kamrup,,
+2017-06-20,Drugs,26.93278814,94.87503845,Sivasagar,,
+2017-04-18,Anti-social behaviour,26.07361397,91.88478142,Kamrup Metropolitan,,
+2017-07-28,Anti-social behaviour,26.4339683,93.22728039,Karbi Anglong,,
+2017-03-29,Drugs,26.87276566,93.26980804,Sonitpur,,
+2017-07-07,Violence and sexual offences,26.83264837,93.67357077,Sonitpur,12,M
+2017-08-18,Violence and sexual offences,26.35752047,92.05835817,Darrang,20,M
+2017-12-28,Other theft,26.27970545,92.8864522,Karbi Anglong,8,F
+2017-11-25,Violence and sexual offences,26.26077161,90.92570798,Barpeta,29,M
+2017-10-28,Other theft,26.50455798,92.14962224,Darrang,29,M
+2017-04-03,Theft from the person,26.17796177,91.59745182,Kamrup,44,M
+2017-02-23,Violence and sexual offences,26.36691178,93.38067094,Karbi Anglong,62,M
+2017-09-06,Bicycle theft,26.42684653,90.70718274,Bongaigaon,47,M
+2017-08-29,Other theft,26.27687873,93.82497925,Karbi Anglong,28,F
+2017-05-25,Violence and sexual offences,26.40762067,90.91934012,Barpeta,33,F
+2017-08-26,Theft from the person,26.5432132,92.25341865,Darrang,50,F
+2017-07-11,Robbery,26.93896866,93.55406388,Sonitpur,24,F
+2017-05-23,Violence and sexual offences,26.87397098,90.42134531,Kokrajhar,54,F
+2017-01-11,Other crime,26.33778777,92.47149913,Marigaon,,
+2017-02-16,Shoplifting,26.40836072,90.44050308,Chirang,,
+2017-06-27,Drugs,26.1926657,92.17635893,Marigaon,,
